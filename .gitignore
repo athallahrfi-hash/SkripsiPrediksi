@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+
+# model temporary
+*.pkl
+*.joblib
+
+# cache streamlit
+.streamlit/
+
+# Documents & Data
+*.pdf
+*.docx
+*.xlsx
+*.drawio*
+*.tmp
+~*
+Revisi_Skripsi_Bab1-4.md
+JURNAL REFRENCE/
